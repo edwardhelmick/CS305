@@ -1,0 +1,21 @@
+•	Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+o	The client was Artemis Financial, a large international Financial Institution. They needed a way to securely handle online transactions in a web application for their business and users.
+
+•	What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+o	I feel like it was easy for me to understand at a high level what needs they might have. For example, I was able to correctly identify what types of transactions an international online financial institution might be making, and how to manage and protect against the vulnerabilities that come from online applications. Protecting the application from vulnerabilities allows for the business to be protected, too.
+
+•	What about the process of working through the vulnerability assessment did you find challenging or helpful?
+o	At first it took me a little bit to fully understand the scope of the vulnerability assessment. Once I understood it, it took some time to be able to match different issues to the proper vulnerability category.
+
+•	How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
+o	I worked through the code and the project dependencies to understand what vulnerabilities existed, and then planned on how to resolve them. I believe this process will be useful in the future to assess vulnerabilities, too. 
+
+•	How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
+o	Before and after refactoring code, I checked the dependency assessment to check if there were any vulnerabilities. Once done, I followed the recommended steps to improve upon the vulnerabilities until none existed.
+
+•	What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
+o	The simple ability to utilize a search engine to search for specific issues and guides on how to resolve them really helped me in this assignment and will continue to be a vital tool for success in the future.
+
+•	Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
+o	I would want to showcase the entire project – I think the ability to take an application and analyze it for vulnerabilities, write new code while being mindful of vulnerabilities, and analyzing it again after all revisions are done is a very useful skill.
+
